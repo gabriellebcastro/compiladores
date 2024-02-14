@@ -1,18 +1,9 @@
 import re
 
 #formato desejado de token: <TIPO, VALOR>
-#"if (x > 0) { y = x + 1; } else { y = x - 1; }"
-"""int main() {
-    if (x > 0) {
-        return x;
-    } else {
-        return -1;
-    }
-}"""
-script = """
-x = 1;
-print (x)
-"""
+
+with open('script.txt', 'r') as file:
+    script = file.read()
 
 types = [
     ('IF', re.compile(r'if')),
@@ -23,10 +14,10 @@ types = [
     ('DIV', re.compile(r'/')),
     ('ID', re.compile(r'[a-zA-Z][a-zA-Z0-9_]*')),
     ('NUM_INT', re.compile(r'[0-9]+')),
+    ('EQUAL', re.compile(r'==')),
     ('ATRIB', re.compile(r'=')),
     ('LPAREN', re.compile(r'\(')),
     ('RPAREN', re.compile(r'\)')),
-    ('EQUAL', re.compile(r'==')),
     ('PRINT', re.compile(r'print')),
     ('NEWLINE', re.compile(r'\n')),
     ('RIGHT', re.compile(r'{')),
