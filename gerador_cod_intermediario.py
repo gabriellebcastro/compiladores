@@ -1,3 +1,4 @@
+# Nós da árvore da expressão regular
 class Node:
     def __init__(self, value):
         self.value = value
@@ -6,6 +7,7 @@ class Node:
     def add_child(self, node):
         self.children.append(node)
 
+# Gera a árvore
 def generate_intermediate_code(expression):
     tokens = expression.split()
     root = Node(tokens[0])
@@ -20,6 +22,7 @@ def generate_intermediate_code(expression):
 
     return root
 
+# Imprime a árvore
 def print_intermediate_code(node, depth=0):
     print("  " * depth + node.value)
     for child in node.children:
