@@ -1,6 +1,6 @@
 ﻿# compiladores
 
-## intro
+## intro:
 Nesse repositório você encontra algumas atividades da disciplina de Compiladores.
 
 ## alunos:
