@@ -1,7 +1,7 @@
 import re
 
 #Formato desejado de token: <TIPO, VALOR>
-with open('script3.txt', 'r') as file:
+with open('portfolio_2\script3.txt', 'r') as file:
     script = file.read()
 
 types = [
