@@ -39,5 +39,12 @@ Exemplo de script não aceito pela gramática:
 - **Parser:** Classe responsável por analisar a sequência de tokens e avaliar a expressão matemática.
 
 ---
+### Atividade 5: Lista de exercícios do capítulo 3<br />
 
-### Atividade 5: Lista de exercícios do capitulo 3<br />
+PDF da atividade da lista de exercícios do capítulo 3 do livro "Compiladores - Da Teoria à Prática" o qual tem como tema as Gramáticas Livres de Contexto
+
+**Referência Bibliográfica:** SANTOS, Pedro R.; LANGLOIS, Thibault. Compiladores - Da Teoria à Prática. Grupo GEN, 2018. E-book. ISBN 9788521635161. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521635161/. Acesso em: 09 abr. 2024.
+
+### Atividade 5 - Atividade Extra 1
+
+PDF da atividade extra 1.
