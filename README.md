@@ -45,6 +45,7 @@ PDF da atividade da lista de exercícios do capítulo 3 do livro "Compiladores -
 
 **Referência Bibliográfica:** SANTOS, Pedro R.; LANGLOIS, Thibault. Compiladores - Da Teoria à Prática. Grupo GEN, 2018. E-book. ISBN 9788521635161. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521635161/. Acesso em: 09 abr. 2024.
 
-### Atividade 5 - Atividade Extra 1
+---
+### Atividade 6 - Atividade Extra 1
 
 PDF da atividade extra 1.
