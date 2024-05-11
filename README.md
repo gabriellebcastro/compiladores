@@ -49,3 +49,8 @@ PDF da atividade da lista de exercícios do capítulo 3 do livro "Compiladores -
 ### Atividade 6 - Atividade Extra 1
 
 PDF da atividade extra 1.
+---
+
+### Atividade 7 - Atividade Extra 2
+
+PDF da atividade extra 2.
